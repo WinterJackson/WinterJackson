@@ -17,7 +17,7 @@
 
 <p align="center">- 📫 How to reach me winterjacksonwj@gmail.com</p>
 
-<p align="center">- 📄 Know about my experiences [https://winterjackson.github.io/assets/docs/JACK%20CV.pdf](https://winterjackson.github.io/assets/docs/JACK%20CV.pdf)</p>
+<p align="center">- 📄 Know about my experiences [https://winterjackson.github.io/assets/docs/JACK%20CV.pdf]</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
