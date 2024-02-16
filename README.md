@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/winterjackson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="winterjackson" height="30" width="40" /></a>
-<a href="https://twitter.com/winter_jackson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="winter_jackson" height="30" width="40" /></a>
+<a href="https://twitter.com/kuzzi_wj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="winter_jackson" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/winter-jackson-454843178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winter-jackson-454843178" height="30" width="40" /></a>
 <a href="https://instagram.com/kuzzi_wj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuzzi_wj" height="30" width="40" /></a>
 </p>
