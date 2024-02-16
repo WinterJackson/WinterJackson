@@ -9,13 +9,13 @@
 
 <p align="center">- 🔭 I’m currently working on [VEPO](https://github.com/WinterJackson/vepo)</p>
 
-<p align="center">- 🌱 I’m currently learning **C++, Java, C#, Microsoft Azure**</p>
+<p align="center">- 🌱 I’m currently learning C++, Java, C#, Microsoft Azure</p>
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://winterjackson.github.io/](https://winterjackson.github.io/)</p>
 
-<p align="center">- 💬 Ask me about **Python, React JS, React Native, HTML, CSS etc.**</p>
+<p align="center">- 💬 Ask me about Python, React JS, React Native, HTML, CSS etc.</p>
 
-<p align="center">- 📫 How to reach me **winterjacksonwj@gmail.com**</p>
+<p align="center">- 📫 How to reach me winterjacksonwj@gmail.com</p>
 
 <p align="center">- 📄 Know about my experiences [https://winterjackson.github.io/assets/docs/JACK%20CV.pdf](https://winterjackson.github.io/assets/docs/JACK%20CV.pdf)</p>
 
