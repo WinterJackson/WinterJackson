@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/kuzzi_wj" target="blank"><img src="https://img.shields.io/twitter/follow/kuzzi_wj?logo=twitter&style=for-the-badge" alt="kuzzi_wj" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on VEPO(https://github.com/WinterJackson/vepo)</p>
+<p align="center">- 🔭 I’m currently working on VEPO App(https://tech-boffin.github.io/vepo-landing-page)</p>
 
 <p align="center">- 🌱 I’m currently learning C++, Java, C#, Microsoft Azure</p>
 
